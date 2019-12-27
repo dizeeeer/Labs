@@ -1,0 +1,12 @@
+C:\Users\enin0\Desktop\Lab-master\DZ\bin\Debug\DZ.exe.config
+C:\Users\enin0\Desktop\Lab-master\DZ\bin\Debug\DZ.exe
+C:\Users\enin0\Desktop\Lab-master\DZ\bin\Debug\DZ.pdb
+C:\Users\enin0\Desktop\Lab-master\DZ\bin\Debug\Lab_5.dll
+C:\Users\enin0\Desktop\Lab-master\DZ\bin\Debug\Lab_5.pdb
+C:\Users\enin0\Desktop\Lab-master\DZ\obj\Debug\DZ.csprojAssemblyReference.cache
+C:\Users\enin0\Desktop\Lab-master\DZ\obj\Debug\DZ.Form1.resources
+C:\Users\enin0\Desktop\Lab-master\DZ\obj\Debug\DZ.Properties.Resources.resources
+C:\Users\enin0\Desktop\Lab-master\DZ\obj\Debug\DZ.csproj.GenerateResource.cache
+C:\Users\enin0\Desktop\Lab-master\DZ\obj\Debug\DZ.csproj.CopyComplete
+C:\Users\enin0\Desktop\Lab-master\DZ\obj\Debug\DZ.exe
+C:\Users\enin0\Desktop\Lab-master\DZ\obj\Debug\DZ.pdb

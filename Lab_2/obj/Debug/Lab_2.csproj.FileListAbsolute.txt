@@ -1,0 +1,6 @@
+C:\Users\enin0\Desktop\Lab-master\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\enin0\Desktop\Lab-master\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\enin0\Desktop\Lab-master\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\enin0\Desktop\Lab-master\Lab_2\obj\Debug\Lab_2.csprojAssemblyReference.cache
+C:\Users\enin0\Desktop\Lab-master\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\enin0\Desktop\Lab-master\Lab_2\obj\Debug\Lab_2.pdb

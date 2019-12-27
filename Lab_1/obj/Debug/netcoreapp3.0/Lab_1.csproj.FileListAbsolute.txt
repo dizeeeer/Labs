@@ -1,0 +1,11 @@
+C:\Users\enin0\Desktop\Lab-master\Lab_1\bin\Debug\netcoreapp3.0\Lab_1.exe
+C:\Users\enin0\Desktop\Lab-master\Lab_1\bin\Debug\netcoreapp3.0\Lab_1.deps.json
+C:\Users\enin0\Desktop\Lab-master\Lab_1\bin\Debug\netcoreapp3.0\Lab_1.runtimeconfig.json
+C:\Users\enin0\Desktop\Lab-master\Lab_1\bin\Debug\netcoreapp3.0\Lab_1.runtimeconfig.dev.json
+C:\Users\enin0\Desktop\Lab-master\Lab_1\bin\Debug\netcoreapp3.0\Lab_1.dll
+C:\Users\enin0\Desktop\Lab-master\Lab_1\bin\Debug\netcoreapp3.0\Lab_1.pdb
+C:\Users\enin0\Desktop\Lab-master\Lab_1\obj\Debug\netcoreapp3.0\Lab_1.csprojAssemblyReference.cache
+C:\Users\enin0\Desktop\Lab-master\Lab_1\obj\Debug\netcoreapp3.0\Lab_1.AssemblyInfoInputs.cache
+C:\Users\enin0\Desktop\Lab-master\Lab_1\obj\Debug\netcoreapp3.0\Lab_1.AssemblyInfo.cs
+C:\Users\enin0\Desktop\Lab-master\Lab_1\obj\Debug\netcoreapp3.0\Lab_1.dll
+C:\Users\enin0\Desktop\Lab-master\Lab_1\obj\Debug\netcoreapp3.0\Lab_1.pdb
